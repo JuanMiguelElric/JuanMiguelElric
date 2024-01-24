@@ -5,4 +5,4 @@
 - 👯 Desenvolvimento Backend utilizando PHP E LARAVEL .
 - 🤔 Desenvolvimento de bancos de dados, incluindo MYSQL, MONGODB.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
