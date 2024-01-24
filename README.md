@@ -2,5 +2,7 @@
 
 - 🔭 Desenvolvimento de Interfaces utilizando HTML, CSS e JavaScript.
 - 🌱 Desenvolvimento de interfaces com REACT.js, TypeScript, Redux e Bootstrap.
-- 👯 Desenvolvimento Backend utilizando NODE.JS, LARAVEL e DJANGO.
-- 🤔 Desenvolvimento de bancos de dados, incluindo MYSQL, MONGODB e PostgreSQL.
+- 👯 Desenvolvimento Backend utilizando PHP E LARAVEL .
+- 🤔 Desenvolvimento de bancos de dados, incluindo MYSQL, MONGODB.
+
+- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
